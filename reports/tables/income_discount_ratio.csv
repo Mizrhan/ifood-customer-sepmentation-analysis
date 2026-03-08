@@ -1,5 +1,6 @@
-Income_Group,Discount_Purchase_Ratio
+IncomeGroup,DiscountRatio
 low,0.261649979067393
 low_middle,0.23770420790536276
 middle_high,0.15525650209191716
 high,0.06758390827753129
+,0.19655131208196489
